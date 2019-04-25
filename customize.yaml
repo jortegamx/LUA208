@@ -1,0 +1,8 @@
+light.dc4f228b6f08_192_168_0_141:
+  friendly_name: LUAH208-Plafon
+light.dc4f228b7177_192_168_0_140:
+  friendly_name: LUAH208-Cama
+cover.micro_open_close_4d_c4_db:
+  friendly_name: Persiana Blackout
+cover.micro_open_close_4d_c4_f0:
+  friendly_name: Persiana Día

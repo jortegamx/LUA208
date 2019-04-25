@@ -1,0 +1,7 @@
+leds:
+  view: yes
+  name: 'Leds'
+  icon: mdi:light
+  entities:
+    - light.dc4f228b6f08_192_168_0_141
+    - light.dc4f228b7177_192_168_0_140
